@@ -13,7 +13,7 @@ public class ACMICPC_MAIN {
 		int TestCase = 0;
 		
 				
-        TestCase = sc.nextInt(); // 테스트 케이스 입
+        TestCase = sc.nextInt(); // 테스트 케이스 입력
 		
         
         
